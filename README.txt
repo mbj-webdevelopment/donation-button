@@ -112,7 +112,7 @@ Easy steps to install the plugin:
 
 == Changelog ==
 = 1.0.0 =
-*	Release Date - 9 Feb, 1015
+*	Release Date - 20 Aug, 2015
 *  	First Version
 
 
